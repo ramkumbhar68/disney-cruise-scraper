@@ -1,0 +1,29 @@
+ANSWERS
+-------
+1. Total cruises for the Pacific (Pacific Coast filter): 2
+2. Total cruises: 168
+3. Holiday cruises (Halloween on the High Seas + Very Merrytime, no double count): 70
+4. Cruises with more than 2 dates: 65
+5. Cruises departing from Miami: 0, London: 0, total: 0
+
+REFERENCE
+---------
+Cards with 'Pacific' in the title (cross-check for Q1): 2
+Website count, all cruises: 946 Cruises | sum of dates on all cards: 946
+Website count, Pacific Coast: 5 Cruises | sum of dates on its cards: 5
+Website count, Halloween: 99 Cruises | Very Merrytime: 134 Cruises
+(The website counts sailing dates, one card can hold several dates.)
+
+Departure city counts:
+departure_city
+Fort Lauderdale         50
+Port Canaveral          41
+San Diego               29
+Galveston               13
+Southampton             10
+San Juan                 8
+Vancouver                5
+New York                 4
+Barcelona                4
+Civitavecchia (Rome)     3
+Singapore                1
